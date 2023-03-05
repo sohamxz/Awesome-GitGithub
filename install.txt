@@ -1,6 +1,6 @@
- # machine’s current git version
+# machine’s current git version
 
- git --version
+git --version
 
 # Set a Username & Email
 
@@ -9,9 +9,11 @@ git config --list
 git config --global user.name "soham"
 git config --global user.email "hello@zzz.com"
 
-
 #create a new Git repository in a new or existing project
 
-
 git init
+
+#View the current status of a repository.
+
+git commit status
 
