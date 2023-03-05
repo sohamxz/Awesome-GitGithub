@@ -16,3 +16,17 @@ list of all the main git commands .
 - `git fetch`: Download objects and references from a remote repository.
 - `git stash`: Save changes that are not ready to be committed yet.
 - `git tag`: Create, list, delete, or verify tags.
+-
+-
+-Github specific
+
+- `git remote`: Manage remote repositories, including GitHub repositories.
+- `git pull`: Fetch and merge changes from a remote repository, including a GitHub repository.
+- `git push`: Push changes to a remote repository, including a GitHub repository.
+- `git clone`: Clone a GitHub repository to a local directory.
+- `git fork`: Create a personal copy of a GitHub repository.
+- `git pull-request`: Create a pull request to submit changes to a GitHub repository.
+- `git merge`: Merge changes from a pull request into a GitHub repository.
+- `git submodule`: Add a Git submodule to a GitHub repository.
+- `git tag`: Create, list, delete, or verify tags in a GitHub repository.
+
